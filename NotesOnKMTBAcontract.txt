@@ -1,0 +1,47 @@
+Token Information:
+
+1. Contract type: ERC-20 standard Token
+
+2. Environment: (Ethereum Main platform)
+
+3. Contract Address: 0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da
+
+4. Etherscan Address URL link: https://etherscan.io/address/0x2bdd6c9bf1bf396a37501aae53751b9946b503da
+
+5. ERC20 token explorer Etherscan: https://etherscan.io/token/0x2bdd6c9bf1bf396a37501aae53751b9946b503da
+
+6. Verified Source code in Etherscan: https://etherscan.io/address/0x2bdd6c9bf1bf396a37501aae53751b9946b503da#code
+
+7. Transfer Token to your Account (proof): https://etherscan.io/tx/0x9ab4360900f36ad842bb9f81ae4b0a839d789d1254ac63510f9f51533f56c77f
+
+8. Transfer Ownership to your account (proof): https://etherscan.io/tx/0x34ea72dd6c01f7d208a2248fa613c1fa33ae56ff683245660d42aaa44b756465
+
+9. You own full token (proof): https://etherscan.io/token/0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da#balances
+
+10. Etherdelta Technical Listing: https://etherdelta.com/#0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da-ETH
+
+11. Forkdelta technical listing: https://forkdelta.app/#!/trade/0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da-ETH
+
+12. Token Store Technical Listing: https://token.store/trade/0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da
+
+
+To access the wallet go to myetherwallet.com
+and click on send ether or tokens and sign in using private key.
+
+Creator’s Address : 0x18DA09028d22a1973Eb2C39Ec77bc3aC9ae99c1A
+Your Private Key : 1aed77f2ac14e310d698d3bce342b279af9bc82ec1b5c27f29009673e2e82e64
+
+Then you need to add custom tokens at right side below.
+
+mention contract address: 0x2BDD6c9bf1bf396a37501AAE53751B9946B503Da
+Symbol: KMTBA
+Decimal: 18
+
+
+Contract Information:
+
+Basic information:
+Token name: Korea Medical TBA
+Token Symbol: KMTBA
+Decimal points accepted: 18
+Total Supply: 10000000000
